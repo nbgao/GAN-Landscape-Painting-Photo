@@ -1,0 +1,20 @@
+1. 保留jpg、正常格式图像
+2. 筛选图像大小、内容
+3. 训练 测试
+
+已有数据集：
+Flower 国画2935张 真实4536张
+Landscape 国画2609张 真实3458张
+trainA 训练真实照片  2000
+trainB 训练国画     2000
+testA  测试照片     100
+testB  测试输出     100
+
+参考文献
+The Fréchet distance between multivariate normal distributions
+[1] Dowson D C, Landau B V. The Fréchet distance between multivariate normal distributions[J]. Journal of Multivariate Analysis, 1982, 12(3): 450-455.
+[2] Qiao T, Zhang W, Zhang M, et al. Ancient Painting to Natural Image: A New Solution for Painting Processing[C]. workshop on applications of computer vision, 2019: 521-530.
+[3] Kim J, Kim M, Kang H, et al. U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation[C]. international conference on learning representations, 2020.
+[4] https://github.com/znxlwm/UGATIT-pytorch
+[5] https://github.com/qiaott/AncientPainitng2NaturalImage
+[6] https://github.com/mseitzer/pytorch-fid
