@@ -11,10 +11,11 @@ testA  测试照片     100
 testB  测试输出     100
 
 参考文献
-The Fréchet distance between multivariate normal distributions
-[1] Dowson D C, Landau B V. The Fréchet distance between multivariate normal distributions[J]. Journal of Multivariate Analysis, 1982, 12(3): 450-455.
+[1] Dowson D, Landau B. The Fréchet distance between multivariate normal distributions[J]. Journal of Multivariate Analysis, 1982, 12(3): 450-455.
 [2] Qiao T, Zhang W, Zhang M, et al. Ancient Painting to Natural Image: A New Solution for Painting Processing[C]. workshop on applications of computer vision, 2019: 521-530.
 [3] Kim J, Kim M, Kang H, et al. U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation[C]. international conference on learning representations, 2020.
-[4] https://github.com/znxlwm/UGATIT-pytorch
-[5] https://github.com/qiaott/AncientPainitng2NaturalImage
-[6] https://github.com/mseitzer/pytorch-fid
+[4] Zhu J, Park T, Isola P, et al. Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks[C]. international conference on computer vision, 2017: 2242-2251.
+[5] https://github.com/znxlwm/UGATIT-pytorch
+[6] https://github.com/qiaott/AncientPainitng2NaturalImage
+[7] https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+[8] https://github.com/mseitzer/pytorch-fid
